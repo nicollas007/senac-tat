@@ -1,0 +1,21 @@
+Objetivo da aula de hoje: 07/08/2024 CONTINUAÇÃO
+
+2ª Aula: Conhecendo a Primeira Lei de Ohm, Resistência Elétrica, Cálculos Elétricos de Tensão, Corrente, Resistência e Potência.
+
+Nessa segunda aula, vamos conhecer um pouco sobre Resistência Elétrica, conhecer a Primeira Lei de Ohm, executar os cálculos de Tensão, Corrente e Resistência, conhecer o Triangulo Mágico de Ohm para Resistência e Potência Aparente (Reativa e Ativa).
+
+Segunda etapa: Principais Sites da Aula
+
+Site (Google Chrome) https://vaamonde.com.br/
+
+Site Github: https://github.com/vaamonde/
+
+Site LinkedIn: https://www.linkedin.com/in/robson-vaamonde-0b029028/
+
+Canal YouTUBE: https://www.youtube.com/boraparapratica
+
+Instragam: 
+https://www.instagram.com/procedimentoem/
+
+Terceira etapa: Pasta na Rede com o Material
+T:\Publica\!!!!RobsonVaamonde\Elétrica

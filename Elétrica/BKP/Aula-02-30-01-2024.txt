@@ -1,0 +1,7 @@
+Objetivo da aula de hoje: 31/01/2024
+
+2ª Aula: Conhecendo a Primeira Lei de Ohm, Resistência Elétrica, Cálculos Elétricos de Tensão, Corrente, Resistência e Potência.
+
+Nessa segunda aula, vamos conhecer um pouco sobre Resistência Elétrica, conhecer a Primeira Lei de Ohm, executar os cálculos de Tensão, Corrente e Resistência, conhecer o Triangulo Mágico de Ohm para Resistência e Potência Aparente (Reativa e Ativa).
+
+Explicação do Cronograma

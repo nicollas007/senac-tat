@@ -1,0 +1,25 @@
+Pontos: 0
+
+Objetivo da aula de hoje: 14/08/2024
+
+Aulas Prática de Elétrica
+
+#01_ Conhecendo a Chave de Teste de Fase ok
+#02_ Conhecendo os Pinos das Tomadas ok
+#03_ Conhecendo o Multímetro ok
+#04_ Medição de Corrente Alternada ok
+#05_ Medição de Corrente Contínua ok
+#06_ Medição de Continuidade ok
+#07_ Testando a Tomada: Fase, Neutro e Terra ok
+#08_ Testando a Pilha: Positivo e Negativo ok
+#09_ Testando a Continuidade do Cabo de Força ok
+#10_ Testando as Tensões no Cabo de Força ok
+#11_ Ligando a Fonte de Alimentação OK
+#12_ Testando as Saídas da Fonte
+==============================================
+Desafio: Achar as Tensões Abaixo na Fonte
+
+ 24V.: Amarelo + Azul
+8,7V.: Amarelo + Laranja
+  7V.: Amarelo + Vermelho
+1,7V.: Vermelho + Laranja

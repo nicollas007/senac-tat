@@ -1,0 +1,22 @@
+Pontos: 0 (Turma B)
+Objetivo da aula de hoje: 06/09/2024
+
+01 (um) Multímetro;
+01 (um) Cabo de Força;
+01 (uma) Fonte de Alimentação;
+01 (um) Testador de Fonte;
+01 (uma) Protoboard;
+07 (sete) Fios para Ligar na Fonte;
+05 (cinco) Coolers;
+08 (oito) Jumpers.
+
+#01_ SE AUTENTICAR NOS COMPUTADORES E ACESSAR O SITE: https://www.tinkercad.com/
+#02_ SE AUTENTICAR COM SUA CONTA NO TINKERCAD
+#03_ INICIAR O PROJETO ELÉTRICO DE CIRCUITOS EM SÉRIE E PARALELO
+#04_ AGUARDAR OS PROCEDIMENTOS DA AULA
+
+LK: @Robson Vaamonde - @SENAC São Paulo Unidade Tatuapé
+
+IT: @Procedimentoem - @SENAC Tatuapé
+
+#senac #senacsp #senactat #senactatuapé #senactatuape #jeitosenac #jeitosenacdeeducar #informática #informatica #tecnicoeminformatica #tecnicoeminformática #profissionaldeti

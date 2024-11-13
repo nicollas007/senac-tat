@@ -1,0 +1,43 @@
+Pontos: 0
+
+Objetivo da aula de hoje: 26/02/2024
+
+Aulas Prática de Elétrica: PEGAR AS FERRAMENTAS E EQUIPAMENTOS PARA OS TESTES ABAIXO:
+
+01 (um)   Multímetro;
+01 (um)   Cabo de Força;
+01 (uma)  Fonte de Alimentação;
+01 (um)   Testador de Fonte;
+01 (uma)  Protoboard (Placa de Ensaio);
+03 (três) Coolers 12V;
+06 (seis) Jumpers (Macho-Macho);
+
+CABOS DE REDE PARA FAZER OS JUMPERS NA FONTE E NAS TRILHAS DA PROTOBOARD.
+
+#01_ Testar e ANOTAR as Tensões nas Tomadas:
+		CORRENTE ALTERNADA: 200V~
+		Fase + Neutro;
+		Fase + Terra;
+		Terra + Neutro.
+
+#02_ Testar e ANOTAR as Tensões nas Pilhas:
+		CORRENTE CONTÍNUA: 20V--
+		Positivo + Negativo de cada pilha;
+		Positivo + Negativo das Pilhas em Série.
+
+#03_ Testar a Continuidade do Cabo de Força;
+CUIDADO!!!!!!!! NÃO TESTAR COM O CABO CONECTADO NA TOMADA, O TESTE E FEITO FORA A TOMADA, TERMINOU O TESTE DESLIGAR O MULTÍMETRO.
+		Fase;
+		Neutro;
+		Terra.
+
+#04_ Testar e ANOTAR as Tensões do Cabo de Força Conectado na Tomada:
+		CORRENTE ALTERNADA:
+		Fase + Neutro;
+		Fase + Terra;
+		Terra + Neutro.
+
+#05_ Ligar a Fonte no Cabo de Força e aguardar os procedimentos da aula de hoje.
+
+==============================================
+Desafio: 
