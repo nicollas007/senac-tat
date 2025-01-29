@@ -1,0 +1,43 @@
+1  poweroff
+    2  sudo
+    3  sudo apt update 
+    4  sudo apt upgrade 
+    5  sudo apt upgrade --fix-missing
+    6  sudo apt autoremove
+    7  sudo apt autoclean 
+    8  sudo reboot 
+    9  sudo apt autoclean 
+   10  sudo apt autoremove
+   11  sudo apt autoclean 
+   12  sudo apt autoremove
+   13  curl -fsS https://dl.brave.com/install.sh | sh
+   14  sudo apt-get update
+   15  sudo apt-get install opera-stable
+   16  sudo apt install chromium
+   17  sudo apt install kdenlive
+   18  sudo apt update
+   19  sudo apt install git vim
+   20  sudo apt install appimage
+   21  sudo snap install kolourpaint
+   22  sudo apt install kolourpaint
+   23  sudo apt install notepadqq
+   24  sudo apt install vlc
+   25  sudo apt install audacity
+   26  sudo apt install kazam
+   27  sudo apt install kernel
+   28  sudo apt install kernel6.11
+   29  sudo apt install kernel 6.11
+   30  sudo apt install linux-oem-24.04b
+   31  uname -a
+   32  sudo reboot 
+   33  git
+   34  git config 
+   35  git config --global user.name ""
+   36  git config --global user.email 
+   37  git config --global user.email
+   38  git config
+   39  git config --list
+   40  git clone https://github.com/nicollas007/senac-tat
+   41  exit
+   42  history
+1
